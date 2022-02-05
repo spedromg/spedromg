@@ -1,2 +1,4 @@
 # I'm Simão Pedro.
-![Simão Pedro](img/img-backgroud.jpg)
+<p align="center">
+  <img src="https://github.com/spedromg/spedromg/blob/main/img/img-background.jpg?raw=true">
+<p>
