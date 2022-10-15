@@ -9,11 +9,15 @@
   Let's program???
 </p>
 <p>
-**My Stack**
+* My Stack *
 </p>
 
 ![My Tools](/img/img-my-stack.png)
 
 ### Let's program?
 
-![Let's program](/img/img-simao-avatar.png#center)
+<p align="center>
+
+![Let's program](/img/img-simao-avatar.png)
+
+</p>
