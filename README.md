@@ -8,16 +8,12 @@
   I love Mathematics, technologies, Java and Python. See my work in the repository and I'm available to exchange ideas!<br>
   Let's program???
 </p>
-<p>
-* My Stack *
-</p>
+
+## My Stack
 
 ![My Tools](/img/img-my-stack.png)
 
-### Let's program?
+## Let's program?
 
-<p align="center>
-
-![Let's program](/img/img-simao-avatar.png)
-
-</p>
+**|**|\_\_
+**|![Let's program](/img/img-simao-avatar.png)|**
