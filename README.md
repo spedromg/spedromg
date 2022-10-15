@@ -1,6 +1,4 @@
-<p align="center">
 ![Simão Pedro Mendes Gabriel](/img/img-background.jpg)
-</p>
 
 # I'm Simão Pedro.
 
@@ -13,10 +11,9 @@
 <p>
 **My Stack**
 </p>
-<p align="center">
-![My Tools](/img/my-stack.jpg)
-</p>
+
+![My Tools](/img/img-my-stack.jpg)
+
 ### Let's program?
-<p align="center">
-![Let's program](/img/simao-avatar.jpg)
-</p>
+
+![Let's program](/img/img-simao-avatar.jpg)
