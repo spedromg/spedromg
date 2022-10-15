@@ -18,4 +18,5 @@
 | :computer::computer:       | :computer::computer:                                      | :computer::computer:       |
 | -------------------------- | --------------------------------------------------------- | -------------------------- |
 | :floppy_disk::floppy_disk: | ![Let is program](/img/img-simao-avatar.png){ width=80% } | :floppy_disk::floppy_disk: |
+| -------------------------- | --------------------------------------------------------- | -------------------------- |
 | :computer::computer:       | :computer::computer:                                      | :computer::computer:       |
