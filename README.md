@@ -15,5 +15,6 @@
 
 ## Let's program?
 
-**|**|\_\_
-**|![Let's program](/img/img-simao-avatar.png)|**
+| ::computer::computer::     | :computer::computer:                        | :computer::computer:       |
+| -------------------------- | ------------------------------------------- | -------------------------- |
+| :floppy_disk::floppy_disk: | ![Let's program](/img/img-simao-avatar.png) | :floppy_disk::floppy_disk: |
