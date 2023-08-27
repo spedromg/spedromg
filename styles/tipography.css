@@ -1,0 +1,9 @@
+@font-face {
+  font-family: FiraSansBold;
+  src: url("../fonts/FiraSans-Bold.ttf");
+}
+
+@font-face {
+  font-family: FiraSansRegular;
+  src: url("../fonts/FiraSans-Regular.ttf");
+}
